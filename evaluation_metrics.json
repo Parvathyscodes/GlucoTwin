@@ -1,0 +1,28 @@
+{
+  "data_origin": "synthetic_demo",
+  "target_definition": "future maximum glucose >= 180 mg/dL within the next 2 hours in simulated data",
+  "patient_level_split": true,
+  "model": {
+    "n_test_windows": 9300,
+    "positive_rate": 0.008602150537634409,
+    "accuracy_at_0_5": 0.9910752688172043,
+    "precision_at_0_5": 0.46938775510204084,
+    "recall_at_0_5": 0.2875,
+    "f1_at_0_5": 0.35658914728682173,
+    "brier_score": 0.006620782837897773,
+    "roc_auc": 0.9812933839479393,
+    "average_precision": 0.42935359567777603
+  },
+  "simple_heuristic_comparator": {
+    "n_test_windows": 9300,
+    "positive_rate": 0.008602150537634409,
+    "accuracy_at_0_5": 0.9872043010752688,
+    "precision_at_0_5": 0.27586206896551724,
+    "recall_at_0_5": 0.3,
+    "f1_at_0_5": 0.2874251497005988,
+    "brier_score": 0.024018751590958964,
+    "roc_auc": 0.9590631778741864,
+    "average_precision": 0.2325774762934227
+  },
+  "disclaimer": "Metrics are only a software-pipeline demonstration on synthetic data; they do not estimate clinical performance."
+}
