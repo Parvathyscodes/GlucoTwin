@@ -7,9 +7,6 @@
 - Team name: parvathy_b241057me
 - Team leader: PARVATHY S
 - College/incubator: National Institute of Technology, Calicut
-- Team members: Individual entry — confirm eligibility and registration rules before submission.
-
-> Replace all bracketed fields before publishing. Do not publish private phone numbers in the public README unless the challenge explicitly requires it. The submission portal may require those details separately.
 
 ## Problem statement
 
