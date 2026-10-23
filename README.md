@@ -45,7 +45,7 @@ The challenge asks for static/historical data and dynamic sensor data. This prot
 
 ## PRESENTATION UPLOADED UNDER THE DOCS FILE AS: 
 
-- GlucoTwin_Challenge_Presentation
+- project_GlucoTwin.pdf
 
 ## Run locally
 
