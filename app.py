@@ -55,7 +55,7 @@ current_glucose = float(latest.glucose_mg_dl)
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("Current glucose (synthetic)", f"{current_glucose:.0f} mg/dL")
-c2.metric("Model-estimated event probability", f"{risk*100:.1f}%")
+c2.metric("Model-estimated event probability", f"{risk*100:.2f}%")
 c3.metric("Readings in replay", f"{len(patient_stream):,}")
 c4.metric("Patient profile", f"{int(profile.age_years)} years")
 
