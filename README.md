@@ -43,11 +43,9 @@ The challenge asks for static/historical data and dynamic sensor data. This prot
 - pytest
 - GitHub
 
-## PRESENTATION AND ARCHITECTURE DIAGRAM ARE UPLOADED UNDER THE DOCS FILE AS: 
+## PRESENTATION UPLOADED UNDER THE DOCS FILE AS: 
 
 - GlucoTwin_Challenge_Presentation
-- architecture_diagram
-
 
 ## Run locally
 
