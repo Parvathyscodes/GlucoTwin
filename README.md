@@ -91,17 +91,6 @@ The app reports test-set metrics on the synthetic cohort. These metrics can be u
 
 The synthetic generator uses a fixed random seed. Record Python and package versions for the final submission, rerun tests, and attach the actual output of `python train_model.py` to the final results only after review.
 
-## 20-minute demo video outline
-
-1. (0:00–2:00) Problem statement and scope.
-2. (2:00–4:00) What a healthcare Digital Twin means in this prototype.
-3. (4:00–6:00) Static profile and dynamic stream; data provenance.
-4. (6:00–9:00) Architecture and feature construction.
-5. (9:00–12:00) Model training, patient-level split, and evaluation.
-6. (12:00–16:00) Live dashboard walkthrough and stream replay.
-7. (16:00–18:00) Limitations, synthetic-data disclosure, and safety.
-8. (18:00–20:00) Next steps for open-data integration and validation.
-
 ## Open-source license
 
 This repository is licensed under the MIT License. This software license does not change the license terms of any third-party datasets added later.
