@@ -39,7 +39,7 @@ with st.sidebar:
     st.markdown("---")
     st.subheader("Replay controls")
     max_rows = len(stream[stream.patient_id == patient_id])
-    replay_idx = st.slider("Sensor stream position", min_value=16, max_value=max_rows, value=max_rows, step=1)
+    replay_idx = st.slider("Sensor stream position", min_value=16, max_value=max_rows, value=max_rows, step=1, key="replay_idx")
     st.caption("Move the slider to replay the sensor stream. The twin state and risk estimate update from the selected history.")
     st.markdown("---")
     st.subheader("About this prototype")
