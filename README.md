@@ -4,10 +4,8 @@
 
 ## Team and institution
 
-- Team name: GlucoTwin
+- Team name: parvathy_b241057me
 - Team leader: PARVATHY S
-- Team leader email: parvathys7272@gmail.com
-- Team leader phone: 6235958612
 - College/incubator: National Institute of Technology, Calicut
 - Team members: Individual entry — confirm eligibility and registration rules before submission.
 
