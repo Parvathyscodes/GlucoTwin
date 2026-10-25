@@ -1,6 +1,8 @@
+
+
 # GlucoTwin: A Digital Twin Proof of Concept for Short-Horizon Glucose Excursion Risk
 
-**Status:** MVP scaffold and synthetic-data demonstration. Not clinically validated.
+**Status:** MVP scaffold and synthetic-data demonstration. 
 
 ## Team and institution
 
@@ -93,3 +95,10 @@ The synthetic generator uses a fixed random seed. Record Python and package vers
 ## Open-source license
 
 This repository is licensed under the MIT License. This software license does not change the license terms of any third-party datasets added later.
+
+## Demo Video
+
+A complete walkthrough of the GlucoTwin prototype, including patient-state replay, simulated sensor visualizations, glucose-excursion prediction, model evaluation, and data limitations.
+
+[Watch the GlucoTwin demonstration](https://drive.google.com/drive/folders/1iYcHXcX2NKQ3iPY1wQUL9QHpvsWxVFmB?usp=share_link)
+
